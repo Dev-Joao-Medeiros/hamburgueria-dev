@@ -15,7 +15,7 @@ Este é um projeto de desenvolvimento de um sistema de hamburgueria em desenvolv
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Medeiros20/hamburgueria-dev.git
+git clone https://github.com/Dev-Joao-Medeiros/hamburgueria-dev.git
 
 # Acesse a pasta do projeto
 cd hamburgueria-dev
